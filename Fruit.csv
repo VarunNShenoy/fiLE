@@ -1,0 +1,101 @@
+﻿OrderDate,Fruit,Weight,Customer,Sell
+2020-08-01T00:00:00Z,Cherry,2,WingTip Toys,1123
+2020-08-01T00:00:00Z,Mango,3,Alpine Ski House,3040
+2020-08-02T00:00:00Z,Orange,3,WingTip Toys,744
+2020-08-02T00:00:00Z,Peach,4,Alpine Ski House,4592
+2020-08-02T00:00:00Z,Mango,4,Alpine Ski House,2841
+2020-08-03T00:00:00Z,Orange,1,Fabrikam Inc.,802
+2020-08-03T00:00:00Z,Peach,4,Alpine Ski House,4044
+2020-08-04T00:00:00Z,Mango,4,Contoso Ltd.,2377
+2020-08-04T00:00:00Z,Mango,2,Fabrikam Inc.,2202
+2020-08-05T00:00:00Z,Orange,3,Contoso Ltd.,813
+2020-08-06T00:00:00Z,Mango,1,WingTip Toys,2513
+2020-08-08T00:00:00Z,Mango,3,Contoso Ltd.,2944
+2020-08-08T00:00:00Z,Grape,1,Fabrikam Inc.,2313
+2020-08-09T00:00:00Z,Orange,5,Alpine Ski House,933
+2020-08-09T00:00:00Z,Grape,4,Northwind Traders,1894
+2020-08-10T00:00:00Z,Cherry,4,WingTip Toys,1110
+2020-08-10T00:00:00Z,Mango,4,Contoso Ltd.,2524
+2020-08-11T00:00:00Z,Peach,2,Northwind Traders,5271
+2020-08-12T00:00:00Z,Grape,1,Alpine Ski House,2370
+2020-08-12T00:00:00Z,Mango,3,Contoso Ltd.,2617
+2020-08-12T00:00:00Z,Cherry,5,Northwind Traders,912
+2020-08-12T00:00:00Z,Cherry,3,Contoso Ltd.,802
+2020-08-12T00:00:00Z,Mango,3,Contoso Ltd.,2274
+2020-08-12T00:00:00Z,Cherry,2,Fabrikam Inc.,1117
+2020-08-13T00:00:00Z,Orange,5,Alpine Ski House,882
+2020-08-13T00:00:00Z,Peach,2,Alpine Ski House,4406
+2020-08-13T00:00:00Z,Peach,2,Fabrikam Inc.,3978
+2020-08-13T00:00:00Z,Mango,4,Contoso Ltd.,2574
+2020-08-13T00:00:00Z,Grape,1,Northwind Traders,1880
+2020-08-14T00:00:00Z,Cherry,4,Alpine Ski House,976
+2020-08-14T00:00:00Z,Grape,1,Fabrikam Inc.,2394
+2020-08-16T00:00:00Z,Orange,1,Northwind Traders,976
+2020-08-16T00:00:00Z,Peach,4,Alpine Ski House,4437
+2020-08-17T00:00:00Z,Grape,4,Alpine Ski House,1961
+2020-08-18T00:00:00Z,Peach,5,Alpine Ski House,3769
+2020-08-19T00:00:00Z,Cherry,3,Fabrikam Inc.,1187
+2020-08-19T00:00:00Z,Cherry,4,WingTip Toys,1079
+2020-08-20T00:00:00Z,Mango,1,WingTip Toys,2697
+2020-08-20T00:00:00Z,Cherry,3,Alpine Ski House,955
+2020-08-20T00:00:00Z,Peach,1,Northwind Traders,4085
+2020-08-20T00:00:00Z,Grape,4,WingTip Toys,2253
+2020-08-22T00:00:00Z,Mango,4,Northwind Traders,3207
+2020-08-22T00:00:00Z,Cherry,5,Fabrikam Inc.,1112
+2020-08-22T00:00:00Z,Mango,5,WingTip Toys,2327
+2020-08-23T00:00:00Z,Peach,4,Northwind Traders,3957
+2020-08-23T00:00:00Z,Orange,3,Fabrikam Inc.,960
+2020-08-24T00:00:00Z,Mango,3,WingTip Toys,2803
+2020-08-24T00:00:00Z,Cherry,1,Fabrikam Inc.,1000
+2020-08-25T00:00:00Z,Mango,3,WingTip Toys,3176
+2020-08-26T00:00:00Z,Orange,5,WingTip Toys,821
+2020-08-27T00:00:00Z,Cherry,3,Contoso Ltd.,948
+2020-08-27T00:00:00Z,Orange,2,Alpine Ski House,704
+2020-08-29T00:00:00Z,Orange,3,WingTip Toys,968
+2020-08-29T00:00:00Z,Orange,5,Northwind Traders,877
+2020-08-29T00:00:00Z,Cherry,5,Contoso Ltd.,856
+2020-08-29T00:00:00Z,Peach,4,Contoso Ltd.,4355
+2020-08-30T00:00:00Z,Cherry,5,WingTip Toys,1137
+2020-08-30T00:00:00Z,Mango,2,Fabrikam Inc.,2334
+2020-08-30T00:00:00Z,Mango,2,WingTip Toys,3109
+2020-08-31T00:00:00Z,Peach,4,Alpine Ski House,5113
+2020-09-01T00:00:00Z,Mango,5,Fabrikam Inc.,3172
+2020-09-02T00:00:00Z,Grape,5,WingTip Toys,1829
+2020-09-04T00:00:00Z,Grape,5,Alpine Ski House,1749
+2020-09-05T00:00:00Z,Grape,5,Contoso Ltd.,2421
+2020-09-05T00:00:00Z,Peach,2,Fabrikam Inc.,4766
+2020-09-06T00:00:00Z,Orange,1,Northwind Traders,988
+2020-09-06T00:00:00Z,Orange,5,Contoso Ltd.,692
+2020-09-07T00:00:00Z,Mango,2,Fabrikam Inc.,2366
+2020-09-07T00:00:00Z,Cherry,1,WingTip Toys,1134
+2020-09-07T00:00:00Z,Cherry,4,Northwind Traders,800
+2020-09-08T00:00:00Z,Peach,4,Northwind Traders,4205
+2020-09-09T00:00:00Z,Peach,5,Contoso Ltd.,3899
+2020-09-09T00:00:00Z,Peach,4,WingTip Toys,4041
+2020-09-09T00:00:00Z,Cherry,5,Northwind Traders,1048
+2020-09-09T00:00:00Z,Grape,5,Northwind Traders,1726
+2020-09-10T00:00:00Z,Mango,1,Contoso Ltd.,2241
+2020-09-10T00:00:00Z,Orange,3,Fabrikam Inc.,910
+2020-09-10T00:00:00Z,Cherry,2,Northwind Traders,994
+2020-09-12T00:00:00Z,Peach,1,Alpine Ski House,3619
+2020-09-12T00:00:00Z,Peach,2,Alpine Ski House,4453
+2020-09-12T00:00:00Z,Orange,2,Contoso Ltd.,908
+2020-09-13T00:00:00Z,Cherry,5,Northwind Traders,1005
+2020-09-13T00:00:00Z,Peach,3,Fabrikam Inc.,3910
+2020-09-13T00:00:00Z,Orange,1,Alpine Ski House,919
+2020-09-14T00:00:00Z,Grape,4,WingTip Toys,2082
+2020-09-14T00:00:00Z,Mango,4,Alpine Ski House,3136
+2020-09-14T00:00:00Z,Grape,2,WingTip Toys,1956
+2020-09-14T00:00:00Z,Grape,4,Northwind Traders,2425
+2020-09-15T00:00:00Z,Grape,5,WingTip Toys,1821
+2020-09-15T00:00:00Z,Mango,5,Alpine Ski House,2510
+2020-09-16T00:00:00Z,Peach,3,Northwind Traders,4890
+2020-09-16T00:00:00Z,Mango,2,Alpine Ski House,2428
+2020-09-16T00:00:00Z,Grape,1,Northwind Traders,1777
+2020-09-16T00:00:00Z,Grape,2,Fabrikam Inc.,1994
+2020-09-17T00:00:00Z,Cherry,4,WingTip Toys,1054
+2020-09-17T00:00:00Z,Mango,5,WingTip Toys,2297
+2020-09-18T00:00:00Z,Grape,5,Fabrikam Inc.,1713
+2020-09-20T00:00:00Z,Grape,1,Alpine Ski House,2412
+2020-09-20T00:00:00Z,Orange,1,WingTip Toys,784
+2020-09-20T00:00:00Z,Peach,2,Alpine Ski House,3832
